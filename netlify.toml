@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api"
+  to = "https://blog.paleohacks.com/wp-json/wp/v2/posts"
+  status = 200
+  force = true

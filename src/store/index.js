@@ -92,7 +92,7 @@ const state = () => ({
   numPosts: 2960,
   loadingPosts: false,
   errorMsg: null,
-  baseUrl: "https://blog.paleohacks.com/wp-json/wp/v2/posts?categories=8",
+  baseUrl: "/api?categories=8",
   perPage: "&per_page=10",
   wpFetchHeaders: {
     headers: {
